@@ -1,0 +1,4 @@
+2018/12/17 20:09:03 [M] ListenAndServe: listen tcp 0.0.0.0:9090: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2018/12/17 20:10:10 [I]                                                                                                ！！当前运行模式为：[ 服务器 ] 模式！！
+2018/12/17 20:10:31 [I]                                                                                                ！！当前运行模式为：[ 客户端 ] 模式！！
+2018/12/17 20:10:52 [I]                                                                                                ！！当前运行模式为：[ 服务器 ] 模式！！
